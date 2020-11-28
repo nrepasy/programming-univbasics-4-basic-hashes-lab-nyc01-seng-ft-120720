@@ -4,7 +4,7 @@ end
 
 def my_hash
   person = {
-    :person = ("nick")
+    :person = "nick"
   }
 end
 def pioneer

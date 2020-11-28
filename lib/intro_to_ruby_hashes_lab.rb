@@ -3,9 +3,10 @@ def new_hash
 end
 
 def my_hash
-  person = {
-    :name = "nick"
-  }
+ person = {
+   :name "Sam",
+  :age 31
+}
   person[:name]
 end
 def pioneer

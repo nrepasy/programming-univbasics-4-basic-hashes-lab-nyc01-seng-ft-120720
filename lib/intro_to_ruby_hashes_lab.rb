@@ -15,8 +15,7 @@ def pioneer
 end
 
 def id_hash_generator(number)
-  hash = {:id => 451learn
-    
+  hash = {:id => 451
   }
 end
   

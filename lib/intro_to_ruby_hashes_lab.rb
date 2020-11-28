@@ -1,5 +1,5 @@
 def new_hash
-  
+  person = {}
 end
 
 def my_hash

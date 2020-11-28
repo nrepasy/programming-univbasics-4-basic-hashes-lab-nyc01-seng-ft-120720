@@ -4,9 +4,9 @@ end
 
 def my_hash
  person = {
-   :name "Sam",
-  :age 31
+   name: "Sam",
 }
+:na
   person[:name]
 end
 def pioneer
